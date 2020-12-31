@@ -1,3 +1,3 @@
 # about
 
-Notionのページ内にブックマークされたWeb記事をRaindropでインポート可能な形式に変換するリポジトリ。
+Notion のページ内にブックマークされた Web 記事を [Raindrop](https://raindrop.io/) でインポート可能な形式に変換するリポジトリ。
